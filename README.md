@@ -8,3 +8,5 @@ Repositório criado para manter exercícios e projetos, usando html e css.
 [Pexels](https://www.pexels.com/pt-br/)
 
 [Unicode](https://unicode.org/emoji/charts/full-emoji-list.html#1f601)
+
+[Gimp](https://www.gimp.org/)
